@@ -1,4 +1,4 @@
-FROM nvidia/opencl:runtime-ubuntu18.04
+FROM nvidia/opencl:devel-ubuntu18.04
 
 COPY resources /
 
